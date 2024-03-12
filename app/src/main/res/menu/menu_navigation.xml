@@ -3,17 +3,17 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     tools:ignore="ExtraText">
     <item
-        android:id="@+id/newQF"
+        android:id="@+id/newQuotationFragment"
     android:icon="@drawable/add_quote"
     android:title="@string/quotes" />
 
     <item
-        android:id="@+id/favsF"
+        android:id="@+id/favouritesFragment"
     android:icon="@drawable/fav"
     android:title="@string/favourites" />
 
     <item
-        android:id="@+id/settingsF"
+        android:id="@+id/settingsFragment"
     android:icon="@drawable/baseline_settings_24"
     android:title="@string/settings" />
 </menu>
